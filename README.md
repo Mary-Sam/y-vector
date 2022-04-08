@@ -31,6 +31,6 @@ https://arxiv.org/abs/2204.01387
 
 .
 
-**ссылка на ноутбук** - 
+**ссылка на ноутбук** - https://www.kaggle.com/mariasamorodova/y-vector-identification
 
 
