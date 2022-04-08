@@ -22,7 +22,9 @@ MFCC+GRU                   - 0.77
 
 При разбиении данных 80/20 на валидационном множестве accuracy составляет 0.92, что является высоким показателем для классификации на 109 классов. Полученный результат выше, чем в представленной выше статье по задаче идентификации на VCTK корпусе.
 Ниже представлены кривые обучения на 4-х эпохах
-![image](https://user-images.githubusercontent.com/43067933/162385237-706b34d3-7eaf-428f-9867-4961ae526d8b.png) ![image](https://user-images.githubusercontent.com/43067933/162385352-5e6d2a86-9bba-4b79-ba83-cfcf9364a7b9.png)
+![image](https://user-images.githubusercontent.com/43067933/162385237-706b34d3-7eaf-428f-9867-4961ae526d8b.png) 
+
+![image](https://user-images.githubusercontent.com/43067933/162385352-5e6d2a86-9bba-4b79-ba83-cfcf9364a7b9.png)
 
 
 
